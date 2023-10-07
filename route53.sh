@@ -3,6 +3,7 @@
 # DANGEROUS!
 #
 # aws-route53-wipe-hosted-zone - Delete a Route 53 hosted zone with all contents
+# ex : ./script <domain> - also note you need to give profile 
 #
 set -e
 VERBOSE=true
